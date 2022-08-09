@@ -1,2 +1,2 @@
 # Titanic Flask Api
-## Publish in Heroku
+## Publish in Heroku in [Run Api](https://titanicssapp.herokuapp.com/predict)
