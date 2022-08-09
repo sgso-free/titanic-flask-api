@@ -1,1 +1,2 @@
-# titanic-flask-api
+# Titanic Flask Api
+## Publish in Heroku
